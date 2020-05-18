@@ -1,4 +1,8 @@
 # hello_world
-My first repository in github.
-
-春风得已马蹄疾，一日看尽长安花。
+```C
+printf("Hello World")
+```
+- [ ] first
+- [x] second
+- [ ] third
+- [x] fourth
